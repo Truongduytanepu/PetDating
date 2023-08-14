@@ -1,0 +1,6 @@
+framework module Pods_FoodAppIOS {
+  umbrella header "Pods-FoodAppIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
